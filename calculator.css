@@ -2,6 +2,7 @@ Body{
     background-color: gray;
     font-family: Arial;
     text-align: center;
+    margin-top: 50px;
 }
 .calculation{
     height: auto;
